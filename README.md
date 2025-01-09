@@ -3,7 +3,7 @@
 ###
 
   🍚 **Who am I?** An Informatics Student at Udayana University, Bali, Indonesia</br>
-  🍳 **What I make?** Simple projects that aims to deepen my understanding in development</br>
+  🍳 **What I make?** Simple projects that aims to deepen my understanding in programming</br>
   🍴 **Why I'm here?** To collaborate and grow with the community while exploring new opportunities</br>
 
 <div align="left">
